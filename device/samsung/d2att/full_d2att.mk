@@ -56,6 +56,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/d2att/window-anim/ThePsynShift.zip:system/addon.d/window-anim/ThePsynShift.zip \
     vendor/samsung/d2att/window-anim/TwistedRubik.zip:system/addon.d/window-anim/TwistedRubik.zip \
     vendor/samsung/d2att/window-anim/Vortex.zip:system/addon.d/window-anim/Vortex.zip \
+    vendor/samsung/d2att/window-anim/MIUI.zip:system/addon.d/window-anim/MIUI.zip \
     vendor/samsung/d2att/com.aokp.animation.manager.apk:system/app/com.aokp.animation.manager.apk \
     vendor/samsung/d2att/framework-flash.zip:system/addon.d/framework-flash.zip
 
