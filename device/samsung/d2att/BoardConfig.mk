@@ -27,5 +27,5 @@
 -include vendor/samsung/d2att/BoardConfigVendor.mk
 
 # Kernel
-TARGET_KERNEL_CONFIG		:= cyanogen_d2_defconfig
+TARGET_KERNEL_CONFIG		:= underwear_d2_defconfig
 
